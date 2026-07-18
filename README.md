@@ -11,3 +11,13 @@
 ➡️Easy Menu
 
 ✅ Telegram :-https://t.me/TEAM_BD_DARK_FOREF
+
+``` git clone https://github.com/r00thex/TG-osint-.git
+
+cd TG-osint-
+
+ls0```
+
+``python main.py``
+
+``python root-tg.py0``
