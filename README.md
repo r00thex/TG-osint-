@@ -12,7 +12,8 @@
 
 ✅ Telegram :-https://t.me/TEAM_BD_DARK_FOREF
 
-``` git clone https://github.com/r00thex/TG-osint-.git
+```
+git clone https://github.com/r00thex/TG-osint-.git
 
 cd TG-osint-
 
