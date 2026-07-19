@@ -19,6 +19,6 @@ cd TG-osint-
 
 ls```
 
-1.``python main.py``
+tools 1.``python main.py``
 
-2.``python root-tg.py0``
+tools 2.``python root-tg.py``
