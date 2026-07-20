@@ -22,3 +22,5 @@ ls```
 tools 1.``python main.py``
 
 tools 2.``python root-tg.py``
+
+db :- https://t.me/c/4404989236/929
