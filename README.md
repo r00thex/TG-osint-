@@ -19,8 +19,10 @@ cd TG-osint-
 
 ls```
 
-tools 1.``python main.py``
+tools 1.```python main.py```
 
-tools 2.``python root-tg.py``
+tools 2.```python root-tg.py```
+
+tools 3 .```python roottg.py```
 
 db :- https://t.me/c/4404989236/929
